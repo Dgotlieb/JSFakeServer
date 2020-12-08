@@ -1,9 +1,9 @@
 {
-	"users": [{
-			"name": "daniel"
+	"config": [{
+			"URL": "https://www.buyme.co.il"
 		},
 		{
-			"name": "Jen"
+			"driver": "Chrome"
 		}
 	]
 }
